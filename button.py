@@ -1,3 +1,4 @@
+
 from tkinter import *
 def myclick():
     myLabel=Label(root,text="boop!!!")
@@ -5,6 +6,8 @@ def myclick():
 
 
 root=Tk()
-myButton=Button(root,text="CLICK ME!!",padx=50,command=myclick)
+root.title("BOOP!")
+
+myButton=Button(root,text="CLICK ME!!",padx=50,pady=10,command=myclick)
 myButton.pack()
 root.mainloop()
