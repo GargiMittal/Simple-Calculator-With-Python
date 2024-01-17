@@ -1,4 +1,4 @@
-# Simple Tkinter Calculator
+# Simple-Calculator-With-Python
 
 This is a basic calculator implemented in Python using the Tkinter library.
 
