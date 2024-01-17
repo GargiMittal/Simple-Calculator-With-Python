@@ -41,3 +41,6 @@ python calculator.py
 - This calculator supports basic arithmetic operations.
 - The code uses the eval() function to evaluate expressions, so avoid using it with untrusted input.
 - Feel free to modify and enhance the code according to your needs!
+
+## Image
+![Calculator](calculator.png)
